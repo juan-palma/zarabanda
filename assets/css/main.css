@@ -637,7 +637,7 @@ div#contacto .fondo {
 			z-index: -1;
 		}
 			div#redes .fondo img {
-				object-position: bottom;
+				object-position: center;
 			}
 		div#redes .container {
 			display: flex;
@@ -1092,7 +1092,7 @@ div#contacto .fondo {
 	Media Queries
 ========================================================================== */
 @media only screen and (max-width: 370px) {
-	
+
 }
 
 
